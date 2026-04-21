@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Efrain-PM/Efrain-PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Efrain**, a Software Engineering student at the Faculty of Computer Science at the Autonomous University of Querétaro (UAQ).
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Student of Software Engineering at UAQ
+- 💻 Skills: JavaScript (intermediate), Java (beginner)
+- 🗄️ Backend experience: SQL and databases
+- 🎨 Passionate about frontend development
+- 📫 **Contact me**: efrain.perezmontes@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- 🌱 Expanding my JavaScript and Java knowledge
+- 👯 Open to collaborating on interesting projects
+
+Feel free to reach out if you want to chat about web development, databases, or anything tech-related!
+
+---
+
+*Last updated: 2026-04-21*
